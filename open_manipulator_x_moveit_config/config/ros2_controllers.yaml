@@ -19,6 +19,8 @@ arm_controller:
       - joint2
       - joint3
       - joint4
+      - virtual_roll_joint
+      - virtual_yaw_joint
     command_interfaces:
       - position
     state_interfaces:
